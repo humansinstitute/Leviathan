@@ -1,2 +1,5 @@
-# BTC-Bootstrap
-Models, Techniques and Code to bootstrap a hyper-local communities based on Bitcoin. For example how could we get local communities in Venezuela up and running and rebuilding shared services post government collapse.
+# Leviathan-BTC
+
+Models, Techniques and Code to bootstrap hyper-local communities based on Bitcoin. 
+
+Providing options for replacing state based institutions with rules based market systems built on bitcoin. 
